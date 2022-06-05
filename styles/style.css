@@ -191,6 +191,14 @@ aside ul {
     columns: 2;
 }
 
+aside a {
+    background-color: var(--cor3);
+}
+
+aside a:hover {
+    color: white;
+}
+
 footer {
     background-color: var(--cor5);
     color: white;
